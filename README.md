@@ -146,7 +146,7 @@ Epoch 20: Train acc 99.29% | Val acc 99.23%
 Best validation acc: 99.25%
 ```
 
-> **Note:** Validation set in logs is the 10k split taken from the 60k training set (50k train / 10k val) as requested in the assignment.
+> **Note:** Validation set in logs is the 10k split taken from the 60k training set (50k train / 10k val).
 
 
 ---
